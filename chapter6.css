@@ -1,0 +1,29 @@
+＊{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box1 {
+  height: 200px;
+  background-image: url(画像/sakura.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.box2 {
+  height: 200px;
+  background-image: url(画像/sea.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.box3 {
+  height: 200px;
+  background-image: url(画像/maple.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.box4 {
+  height: 200px;
+  background-image: url(画像/画像/yuki.jpg);
+  background-size: cover;
+  background-position: center;
+}
